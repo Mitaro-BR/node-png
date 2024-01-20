@@ -1,5 +1,5 @@
 {
-  "name": "png",
+  "name": "node-png-mtr",
   "version": "0.5.0",
   "description": "Simple PNG encoder/decoder",
   "author": "Michel Rocha",
@@ -9,7 +9,7 @@
     "png"
   ],
   "engines": {
-    "node": ">=0.8.x"
+    "node": ">10.0.0"
   },
   "main": "./lib/png.js",
   "directories": {
