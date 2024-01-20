@@ -6,7 +6,7 @@ This is a alternative from pkrumins original code.
 Installation
 ===============
 ```
-$ npm install node-png 
+$ npm install node-png-mtr 
 ```
 
 Example
