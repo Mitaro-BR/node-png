@@ -1,0 +1,29 @@
+{
+  "name": "node-png",
+  "version": "0.5.0",
+  "description": "Simple PNG encoder/decoder",
+  "author": "Michel Rocha",
+  "contributors": [],
+  "homepage": "https://github.com/Mitaro-BR/node-png",
+  "keywords": [
+    "png"
+  ],
+  "engines": {
+    "node": ">0.8.x"
+  },
+  "main": "./lib/png.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mitaro-BR/node-png.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mitaro-BR/node-png/issues"
+  }
+}
