@@ -4,7 +4,7 @@
   "description": "Simple PNG encoder/decoder",
   "author": "Michel Rocha",
   "contributors": [],
-  "homepage": "https://github.com/Mitaro-BR/node-png",
+  "homepage": "https://github.com/Mitaro-BR/node-png-mtr",
   "keywords": [
     "png"
   ],
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Mitaro-BR/node-png.git"
+    "url": "git://github.com/Mitaro-BR/node-png-mtr.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mitaro-BR/node-png/issues"
+    "url": "https://github.com/Mitaro-BR/node-png-mtr/issues"
   }
 }
